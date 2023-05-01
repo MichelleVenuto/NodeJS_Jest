@@ -1,0 +1,14 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Projeto de teste unitário",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Michelle Venuto",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
